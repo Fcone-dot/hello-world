@@ -1,2 +1,2 @@
 # hello-world
-want to change the world AND we do it together
+want to change the world
